@@ -1,2 +1,3 @@
 # Cotswold-Jam-Branding
- Brand related resources for Cotswold Jam
+ 
+This tutorial contains brand related resources for Cotswold Jam
